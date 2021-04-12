@@ -1,7 +1,4 @@
 ### Hi, I'm Koalia👋🏾👩🏾‍💻 
-<!--
-**koalias/koalias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->!
 ![image](https://user-images.githubusercontent.com/76494729/114432394-a755a000-9b8e-11eb-9ab4-a5d285c3fb74.png)
 
 ## My Values

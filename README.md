@@ -1,16 +1,21 @@
-### Hi there 👋
-
+### Hi, I'm Koalia👋🏾👩🏾‍💻 
 <!--
 **koalias/koalias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->!
+![image](https://user-images.githubusercontent.com/76494729/114432394-a755a000-9b8e-11eb-9ab4-a5d285c3fb74.png)
 
-Here are some ideas to get you started:
+## My Values
+- 🦋Expression as authentic self
+- ✨Beginner's mindset and drive
+- 👯‍♀️Shared understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find me around the Web🌎:
+- Learning in public on [Twitter](https://twitter.com/ailaokkokoa)
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/koalia-sanders-7b9100ab/)
+
+
+
+
+
+

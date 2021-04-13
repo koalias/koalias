@@ -1,5 +1,5 @@
 ### Hi, I'm Koalia👋🏾👩🏾‍💻 
-![image](https://user-images.githubusercontent.com/76494729/114432394-a755a000-9b8e-11eb-9ab4-a5d285c3fb74.png)
+![image](https://user-images.githubusercontent.com/76494729/114585645-dbde6000-9c51-11eb-9c0a-2b2bc0c7bd1b.png)
 
 ## My Values
 - 🦋Expression as authentic self
